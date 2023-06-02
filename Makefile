@@ -1,5 +1,5 @@
 COMMENT =               OpenBSD system information script
-V =                     1.0.0
+V =                     0.0.1
 DISTNAME =              sysinfo-${V}
 CATEGORIES =            sysutils
 REVISION =              0
