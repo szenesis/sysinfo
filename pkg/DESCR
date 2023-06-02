@@ -1,0 +1,5 @@
+Description:
+Sysinfo is a script which shows system information in an eyecandy
+fashion suitable for screenshots. Like neofetch / screenfetch, but
+written specifically for OpenBSD.
+
